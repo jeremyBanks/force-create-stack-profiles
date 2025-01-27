@@ -1,4 +1,4 @@
-If you are viewing this post while logged in to Stack Exchange, it will have automatically attempted to create accounts for you on every Stack Exchange network site.
+If you are viewing this page while logged in to Stack Exchange, it will have automatically attempted to create accounts for you on every Stack Exchange network site.
 
 See <https://meta.stackexchange.com/q/405712/134300> for more information.
 
